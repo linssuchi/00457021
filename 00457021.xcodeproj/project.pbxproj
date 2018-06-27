@@ -10,7 +10,7 @@
 		398DA08120E2926800D29F5F /* Record.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DA08020E2926800D29F5F /* Record.swift */; };
 		398DA0C020E2E1F400D29F5F /* RecordTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DA0BF20E2E1F400D29F5F /* RecordTableViewCell.swift */; };
 		398DA0C220E307DA00D29F5F /* kitty和熊熊.gif in Resources */ = {isa = PBXBuildFile; fileRef = 398DA0C120E307DA00D29F5F /* kitty和熊熊.gif */; };
-		398DA0C420E308B100D29F5F /* UIImageGIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DA0C320E308B100D29F5F /* UIImageGIF.swift */; };
+		398DA0C820E30F2F00D29F5F /* UIImage+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 398DA0C720E30F2F00D29F5F /* UIImage+GIF.swift */; };
 		39FCAF1B20E2474F00DF1A1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FCAF1A20E2474F00DF1A1F /* AppDelegate.swift */; };
 		39FCAF1D20E2474F00DF1A1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39FCAF1C20E2474F00DF1A1F /* ViewController.swift */; };
 		39FCAF2020E2474F00DF1A1F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39FCAF1E20E2474F00DF1A1F /* Main.storyboard */; };
@@ -43,7 +43,7 @@
 		398DA08020E2926800D29F5F /* Record.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Record.swift; sourceTree = "<group>"; };
 		398DA0BF20E2E1F400D29F5F /* RecordTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordTableViewCell.swift; sourceTree = "<group>"; };
 		398DA0C120E307DA00D29F5F /* kitty和熊熊.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "kitty和熊熊.gif"; sourceTree = SOURCE_ROOT; };
-		398DA0C320E308B100D29F5F /* UIImageGIF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UIImageGIF.swift; path = ../../../Downloads/UIImageGIF.swift; sourceTree = "<group>"; };
+		398DA0C720E30F2F00D29F5F /* UIImage+GIF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+GIF.swift"; sourceTree = "<group>"; };
 		39FCAF1720E2474F00DF1A1F /* 00457021.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 00457021.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39FCAF1A20E2474F00DF1A1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39FCAF1C20E2474F00DF1A1F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -112,7 +112,7 @@
 				398DA0C120E307DA00D29F5F /* kitty和熊熊.gif */,
 				39FCAF1A20E2474F00DF1A1F /* AppDelegate.swift */,
 				39FCAF1C20E2474F00DF1A1F /* ViewController.swift */,
-				398DA0C320E308B100D29F5F /* UIImageGIF.swift */,
+				398DA0C720E30F2F00D29F5F /* UIImage+GIF.swift */,
 				39FCAF1E20E2474F00DF1A1F /* Main.storyboard */,
 				398DA08020E2926800D29F5F /* Record.swift */,
 				39FCAF2120E2475000DF1A1F /* Assets.xcassets */,
@@ -281,7 +281,7 @@
 				398DA08120E2926800D29F5F /* Record.swift in Sources */,
 				39FCAF4C20E26A9F00DF1A1F /* EditRecordTableViewController.swift in Sources */,
 				39FCAF1B20E2474F00DF1A1F /* AppDelegate.swift in Sources */,
-				398DA0C420E308B100D29F5F /* UIImageGIF.swift in Sources */,
+				398DA0C820E30F2F00D29F5F /* UIImage+GIF.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
